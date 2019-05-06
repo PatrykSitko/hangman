@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hangman/static/css/main.d6e43c87.chunk.css",
+    "main.js": "/hangman/static/js/main.90aaccd1.chunk.js",
+    "main.js.map": "/hangman/static/js/main.90aaccd1.chunk.js.map",
+    "runtime~main.js": "/hangman/static/js/runtime~main.d9fce119.js",
+    "runtime~main.js.map": "/hangman/static/js/runtime~main.d9fce119.js.map",
+    "static/js/2.83b9a475.chunk.js": "/hangman/static/js/2.83b9a475.chunk.js",
+    "static/js/2.83b9a475.chunk.js.map": "/hangman/static/js/2.83b9a475.chunk.js.map",
+    "index.html": "/hangman/index.html",
+    "precache-manifest.14a5ed03130351fb203678e77e213b7c.js": "/hangman/precache-manifest.14a5ed03130351fb203678e77e213b7c.js",
+    "service-worker.js": "/hangman/service-worker.js",
+    "static/css/main.d6e43c87.chunk.css.map": "/hangman/static/css/main.d6e43c87.chunk.css.map",
+    "static/media/app.css": "/hangman/static/media/hangman.6c5eea1b.gif"
+  }
+}
