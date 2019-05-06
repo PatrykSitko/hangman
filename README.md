@@ -1,4 +1,5 @@
-[Play](https://jigabytepl.github.io/hangman)
+[Play](https://patryk-sitko.github.io/hangman)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
